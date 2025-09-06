@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my GitHub!
 
-I'm **Zakaria Sabiri**, a passionate full-stack developer interested in **Web Development, PHP, React, and Software Engineering**.  
+I'm **Zakaria Sabiri**, a passionate full-stack developer interested in **Web Development Java, Jee, PHP, React, and Software Engineering**.  
 Here is where I share my projects, experiments, and learning journey 🚀
 
 ---
