@@ -37,20 +37,6 @@ Passionate about building scalable web applications and exploring cutting-edge t
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-### Database & Tools  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
-
-## 🎯 Goals for 2025  
-- 🚀 Contribute to **open-source projects**.  
-- 🏗️ Build a **complete SaaS project** (frontend + backend + deployment).  
-- 🌐 Gain expertise in **Cloud (AWS, Azure, Docker, CI/CD pipelines)**.  
-- 🤝 Collaborate with developers globally on real-world applications.  
-
 ---
 
 ## 📊 GitHub Stats & Achievements  
