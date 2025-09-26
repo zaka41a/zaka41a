@@ -30,19 +30,6 @@
 
 ---
 
-
-  <!-- Contact / links -->
- <p>
-  <!-- Gmail: rouge Google (#EA4335), logo blanc -->
-  <a href="mailto:zaksab98@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-      alt="Email"
-      height="28"
-      loading="lazy"
-    />
-  </a>
-
   <!-- LinkedIn: bleu officiel (#0A66C2), logo blanc -->
   <a href="https://www.linkedin.com/in/your-link">
     <img
