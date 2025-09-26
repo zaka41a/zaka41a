@@ -117,9 +117,3 @@
 > I turn ☕ into code and ideas into projects. 😎
 
 ---
-
-### ✨ Extra: Quick Links
-- 🔎 **Resume/CV:** _add a link to your latest PDF_
-- 🧪 **Playground/CodePens:** _add your favorite demos_
-- 🗺️ **Location:** Aachen, Germany
-
