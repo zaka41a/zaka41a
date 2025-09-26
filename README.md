@@ -1,23 +1,50 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Sabiri;Full-Stack+Developer+%7C+Software+Engineer+%7C+Tech+Enthusiast;I+build+scalable+web+apps+and+love+modern+stacks" alt="Typing SVG" />
-  
-  <br/>
 
-  <a href="mailto:zaksab98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <!-- Typing banner -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Sabiri;Full-Stack+Developer+%7C+Software+Engineer+%7C+Tech+Enthusiast;I+build+scalable+web+apps+and+love+modern+stacks"
+    alt="Hi, I'm Zakaria Sabiri — Full-Stack Developer | Software Engineer | Tech Enthusiast"
+    loading="lazy"
+  />
 
+  <!-- Contact / links -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=zaka41a&label=Profile%20views&color=0ea5e9&style=flat" alt="profile views" />
+    <a href="mailto:zaksab98@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+        height="28"
+        loading="lazy"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/your-link">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+        height="28"
+        loading="lazy"
+      />
+    </a>
+    <a href="https://your-portfolio-link.com">
+      <img
+        src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Portfolio"
+        height="28"
+        loading="lazy"
+      />
+    </a>
   </p>
+
+  <!-- Profile views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=zaka41a&label=Profile%20views&color=0EA5E9&style=flat"
+    alt="Profile views"
+    loading="lazy"
+  />
+
 </div>
+
 
 ---
 
