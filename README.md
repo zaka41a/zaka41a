@@ -27,33 +27,6 @@
     </a>
   </p>
 </div>
-
----
-
-  <!-- LinkedIn: bleu officiel (#0A66C2), logo blanc -->
-  <a href="https://www.linkedin.com/in/your-link">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-      alt="LinkedIn"
-      height="28"
-      loading="lazy"
-    />
-  </a>
-
-  <!-- Portfolio (Vercel): fond noir, logo blanc -->
-  <a href="https://your-portfolio-link.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
-      alt="Portfolio"
-      height="28"
-      loading="lazy"
-    />
-  </a>
-</p>
-
-</div>
-
-
 ---
 
 ## 🚀 About Me
