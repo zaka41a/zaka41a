@@ -35,14 +35,6 @@
       />
     </a>
   </p>
-
-  <!-- Profile views -->
-  <img
-    src="https://komarev.com/ghpvc/?username=zaka41a&label=Profile%20views&color=0EA5E9&style=flat"
-    alt="Profile views"
-    loading="lazy"
-  />
-
 </div>
 
 
