@@ -1,12 +1,35 @@
-<!-- Profile Header -->
 <div align="center">
+  <h1>Hi 👋, I'm Zakaria Sabiri</h1>
+  <p><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
+  <p>I build scalable web apps & love modern stacks.</p>
 
-  <!-- Typing banner -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Sabiri;Full-Stack+Developer+%7C+Software+Engineer+%7C+Tech+Enthusiast;I+build+scalable+web+apps+and+love+modern+stacks"
-    alt="Hi, I'm Zakaria Sabiri — Full-Stack Developer | Software Engineer | Tech Enthusiast"
-    loading="lazy"
-  />
+  <p>
+    <a href="mailto:zaksab98@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+        alt="Email"
+        height="28"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/your-vanity">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+        alt="LinkedIn"
+        height="28"
+      />
+    </a>
+    <a href="https://your-portfolio-link.com">
+      <img
+        src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+        alt="Portfolio"
+        height="28"
+      />
+    </a>
+  </p>
+</div>
+
+---
+
 
   <!-- Contact / links -->
  <p>
