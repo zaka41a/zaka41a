@@ -1,63 +1,100 @@
-# 👋 Hi there, I'm Zakaria Sabiri  
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Sabiri;Full-Stack+Developer+%7C+Software+Engineer+%7C+Tech+Enthusiast;I+build+scalable+web+apps+and+love+modern+stacks" alt="Typing SVG" />
+  
+  <br/>
 
-💻 **Full-Stack Developer | Software Engineer | Tech Enthusiast**  
-Passionate about building scalable web applications and exploring cutting-edge technologies.  
+  <a href="mailto:zaksab98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
----
-
-## 🚀 About Me  
-- 🎓 Software Engineering student with strong interest in **Web Development (Java, JEE, PHP, React, MySQL)**.  
-- 🛠️ Currently working on **full-stack projects** combining **PHP, React & MySQL**.  
-- 🌱 Continuously learning about **modern frameworks, cloud deployment (AWS/Azure), and scalable architectures**.  
-- 🤝 Open to **collaboration** on innovative and impactful projects.  
-- 🌍 Based in **Aachen, Germany**.  
-
----
-
-## 🌟 Featured Projects  
-🔹 [**MyGym**](https://github.com/zaka41a/MyGym) – Gym management app (PHP & XAMPP).  
-🔹 [**RestaurantApp**](https://github.com/zaka41a/RestaurantApp) – Restaurant management system (React + PHP backend).  
-🔹 [**CoffeApp**](https://github.com/zaka41a/CoffeApp) – A full-stack app for coffee shop management.  
-🔹 More exciting projects coming soon 🚀  
-
----
-
-## 🛠️ Tech Stack  
-### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JEE](https://img.shields.io/badge/JEE-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zaka41a&label=Profile%20views&color=0ea5e9&style=flat" alt="profile views" />
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats & Achievements  
-
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaka41a&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight)  
-![trophy](https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=15&margin-h=15)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true)  
-
----
-
-## 📫 Connect with Me  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 [Email Me](mailto:zaksab98@gmail.com)  
+## 🚀 About Me
+- 🎓 Software Engineering student focused on **Web Development** (**Java/JEE, PHP, React, MySQL**).
+- 🛠️ Currently building full-stack apps with **PHP, Node.js, React, and MySQL**.
+- ☁️ Learning **cloud (AWS/Azure)** and scalable architectures.
+- 🤝 Open to collaborations on impactful projects.
+- 📍 Based in **Aachen, Germany**.
 
 ---
 
-## ⚡ Fun Fact  
-> “I turn ☕ into code and ideas into projects.” 😎  
+## 🧰 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![JEE](https://img.shields.io/badge/JEE-5382A1?logo=openjdk&logoColor=white&style=for-the-badge)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
 ---
 
-🔥 **Feel free to explore my repositories and let’s build something amazing together!** 🚀  
+## 🌟 Featured Projects
+
+- 🔹 **[MyGym](https://github.com/zaka41a/MyGym)** — Gym management app (PHP & XAMPP).
+- 🔹 **[RestaurantApp](https://github.com/zaka41a/RestaurantApp)** — Restaurant management system (React + PHP backend).
+- 🔹 **[CoffeApp](https://github.com/zaka41a/CoffeApp)** — Full-stack app for coffee shop management.
+- 🔹 **[TaskBase](https://github.com/zaka41a/TaskBase)** — React + Node + SQLite mini app with JWT auth.
+
+> *Tip:* Pin these repos in your GitHub profile for quick access.
+
+---
+
+## 📈 Stats & Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zaka41a&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+---
+
+## 📫 Connect with Me
+- 🌐 **Portfolio:** https://your-portfolio-link.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
+- 📧 **Email:** [zaksab98@gmail.com](mailto:zaksab98@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+> I turn ☕ into code and ideas into projects. 😎
+
+---
+
+### ✨ Extra: Quick Links
+- 🔎 **Resume/CV:** _add a link to your latest PDF_
+- 🧪 **Playground/CodePens:** _add your favorite demos_
+- 🗺️ **Location:** Aachen, Germany
+
