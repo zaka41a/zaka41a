@@ -11,7 +11,7 @@
         height="28"
       />
     </a>
-    <a href="https://www.linkedin.com/in/your-vanity](https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/">
+    <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/">
       <img
         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
         alt="LinkedIn"
