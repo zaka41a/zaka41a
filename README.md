@@ -10,9 +10,7 @@
     <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" height="28" />
     </a>
-    <a href="https://your-portfolio-link.com">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio" height="28" />
-    </a>
+    
   </p>
 </div>
 
