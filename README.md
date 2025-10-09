@@ -27,7 +27,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin,linux" />
 </p>
 
 <div align="center">
@@ -87,9 +87,5 @@
 ## ⚡ Fun Fact
 
 > I turn ☕ into code and ideas into projects. 😎  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
 
 ---
