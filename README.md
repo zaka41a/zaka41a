@@ -7,10 +7,9 @@ voila mon <div align="center">
 <div align="center">
   <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
   <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </div>
----
+
 
 ## 🚀 About Me
 - 🎓 Software Engineering student focused on **Web Development** (**Java/JEE, PHP, React, MySQL**).
