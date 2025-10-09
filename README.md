@@ -18,13 +18,6 @@ voila mon <div align="center">
         height="28"
       />
     </a>
-    <a href="https://your-portfolio-link.com">
-      <img
-        src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
-        alt="Portfolio"
-        height="28"
-      />
-    </a>
   </p>
 </div>
 
@@ -40,26 +33,10 @@ voila mon <div align="center">
 
 ## 🧰 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,jee,laravel,mysql,sqlite,docker,git,kotlin" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
-![JEE](https://img.shields.io/badge/JEE-5382A1?logo=openjdk&logoColor=white&style=for-the-badge)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
 ---
 
