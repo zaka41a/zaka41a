@@ -3,24 +3,14 @@ voila mon <div align="center">
   <p><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
   <p>I build scalable web apps & love modern stacks.</p>
 
-  <p>
-    <a href="mailto:zaksab98@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Email-zaksab98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
-        alt="Email"
-        height="28"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
-        alt="LinkedIn"
-        height="28"
-      />
-    </a>
-  </p>
+ ---
+<div align="center">
+  <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
+  <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </div>
-
+---
 
 ## 🚀 About Me
 - 🎓 Software Engineering student focused on **Web Development** (**Java/JEE, PHP, React, MySQL**).
