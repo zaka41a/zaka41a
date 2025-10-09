@@ -1,8 +1,4 @@
 <!-- 🌟 Zakaria Sabiri - GitHub Profile README -->
-
-<div align="center">
-  <img src="https://i.imgur.com/dM7Thhn.gif" alt="Banner" width="100%" />
-
   <h1>Hi 👋, I'm Zakaria Sabiri</h1>
   <p><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
   <p>I build scalable web apps & love modern stacks 🚀</p>
