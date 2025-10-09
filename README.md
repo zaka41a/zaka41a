@@ -1,46 +1,57 @@
-voila mon <div align="center">
-  <h1>Hi 👋, I'm Zakaria Sabiri</h1>
-  <p><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
-  <p>I build scalable web apps & love modern stacks.</p>
+<div align="center">
+  <img src="https://github.com/zaka41a/zaka41a/blob/main/assets/banner.gif" alt="Banner" width="100%" />
+</div>
 
- 
+<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Zakaria Sabiri</span></h1>
+<p align="center"><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
+<p align="center">I craft scalable web apps & love modern stacks ☁️</p>
+
 <div align="center">
   <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </div>
 
+---
 
 ## 🚀 About Me
-- 🎓 Software Engineering student focused on **Web Development** (**Java/JEE, PHP, React, MySQL**).
-- 🛠️ Currently building full-stack apps with **PHP, Node.js, React, and MySQL**.
-- ☁️ Learning **cloud (AWS/Azure)** and scalable architectures.
-- 🤝 Open to collaborations on impactful projects.
-- 📍 Based in **Aachen, Germany**.
+
+- 🎓 Software Engineering student focused on **Web Development** (**Java/JEE, PHP, React, MySQL**)
+- 🛠️ Building full-stack apps with **PHP, Node.js, React, MySQL**
+- ☁️ Learning **Cloud & DevOps (AWS, Docker, CI/CD)**
+- 🤝 Open to **collaborations** on impactful projects
+- 📍 Based in **Aachen, Germany**
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin,aws,linux" />
 </p>
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="40" />
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🔹 **[MyGym](https://github.com/zaka41a/MyGym)** — Gym management app (PHP & XAMPP).
-- 🔹 **[RestaurantApp](https://github.com/zaka41a/RestaurantApp)** — Restaurant management system (React + PHP backend).
-- 🔹 **[CoffeApp](https://github.com/zaka41a/CoffeApp)** — Full-stack app for coffee shop management.
-- 🔹 **[TaskBase](https://github.com/zaka41a/TaskBase)** — React + Node + SQLite mini app with JWT auth.
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🚴‍♂️ [**MyGym**](https://github.com/zaka41a/MyGym) | Gym management system | PHP, XAMPP |
+| 🍽️ [**RestaurantApp**](https://github.com/zaka41a/RestaurantApp) | Restaurant management system | React + PHP |
+| ☕ [**CoffeApp**](https://github.com/zaka41a/CoffeApp) | Coffee shop management | Full Stack |
+| ✅ [**TaskBase**](https://github.com/zaka41a/TaskBase) | Task Manager with JWT Auth | React + Node |
 
-> *Tip:* Pin these repos in your GitHub profile for quick access.
+> 💡 *Tip:* Pin these repos in your GitHub profile!
 
 ---
 
-## 📈 Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
@@ -55,16 +66,30 @@ voila mon <div align="center">
 
 ---
 
+## 🧠 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
+
+---
+
 ## 📫 Connect with Me
-- 🌐 **Portfolio:** https://your-portfolio-link.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 📧 **Email:** [zaksab98@gmail.com](mailto:zaksab98@gmail.com)
+
+<div align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zaksab98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
 ## ⚡ Fun Fact
-> I turn ☕ into code and ideas into projects. 😎
+
+> I turn ☕ into code and ideas into projects. 😎  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 ---
-ajouter des truc comme des les images
-
