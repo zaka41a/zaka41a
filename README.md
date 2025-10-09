@@ -23,7 +23,7 @@ voila mon <div align="center">
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,jee,laravel,mysql,sqlite,docker,git,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin" />
 </p>
 
 
