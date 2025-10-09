@@ -3,7 +3,7 @@ voila mon <div align="center">
   <p><strong>Full-Stack Developer | Software Engineer | Tech Enthusiast</strong></p>
   <p>I build scalable web apps & love modern stacks.</p>
 
- ---
+ 
 <div align="center">
   <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
