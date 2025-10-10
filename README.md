@@ -36,18 +36,8 @@
 
 ---
 
-## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🚴‍♂️ [**MyGym**](https://github.com/zaka41a/MyGym) | Gym management system | PHP, XAMPP |
-| 🍽️ [**RestaurantApp**](https://github.com/zaka41a/RestaurantApp) | Restaurant management system | React + PHP |
-| ☕ [**CoffeApp**](https://github.com/zaka41a/CoffeApp) | Coffee shop management | Full Stack |
-| ✅ [**TaskBase**](https://github.com/zaka41a/TaskBase) | Task Manager with JWT Auth | React + Node |
 
-> 💡 *Tip:* Pin these repos in your GitHub profile!
-
----
 
 ## 📊 GitHub Stats & Activity
 
