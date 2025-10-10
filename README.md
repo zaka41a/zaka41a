@@ -32,8 +32,6 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="40" />
 </div>
 
 ---
