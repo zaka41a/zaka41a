@@ -24,11 +24,14 @@
 
 ---
 
+
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,laravel,mysql,sqlite,docker,git,kotlin,linux,go,spring,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,python,laravel,go,spring,swift,kotlin,ios,mysql,sqlite,postgresql,docker,git,linux" />
 </p>
+
+
 
 ---
 
