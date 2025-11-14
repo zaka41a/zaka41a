@@ -1,0 +1,92 @@
+name: Generate Multi-Style Snakes
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  snakes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create output directories
+        run: mkdir -p dist/neon
+
+      # === CYBERPUNK (FOND NOIR) ===
+      - name: Generate Cyberpunk Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zaka41a
+          outputs: |
+            dist/neon/neon-cyberpunk.svg
+            dist/neon/neon-cyberpunk.gif
+          palette: |
+            #000000
+            #00eaff
+            #5b00ff
+            #9d00ff
+            #ff00f5
+            #ff008a
+
+      # === MATRIX (FOND NOIR) ===
+      - name: Generate Matrix Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zaka41a
+          outputs: |
+            dist/neon/neon-matrix.svg
+            dist/neon/neon-matrix.gif
+          palette: |
+            #000000
+            #00ff41
+            #00cc35
+            #009926
+            #006b19
+
+      # === BLUE NEON (FOND NOIR) ===
+      - name: Generate Blue Neon Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zaka41a
+          outputs: |
+            dist/neon/neon-blue.svg
+            dist/neon/neon-blue.gif
+          palette: |
+            #000000
+            #00eaff
+            #14f1ff
+            #38bdf8
+            #7dd3fc
+
+      # === RGB LED (FOND NOIR) ===
+      - name: Generate RGB Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zaka41a
+          outputs: |
+            dist/neon/neon-rgb.svg
+            dist/neon/neon-rgb.gif
+          palette: |
+            #000000
+            #ff0000
+            #ffa500
+            #ffff00
+            #00ff00
+            #00ffff
+            #0000ff
+            #ff00ff
+
+      - name: Publish Snakes
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
