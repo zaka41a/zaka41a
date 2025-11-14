@@ -56,19 +56,25 @@ My approach blends engineering fundamentals with modern development practices an
 
 ---
 
-# 🔮 GitHub Insights
+## 🔮 GitHub Insights
 
-<div align="center">
+<div align="center" style="
+  background:#000;
+  padding:30px;
+  border-radius:18px;
+  box-shadow:0 0 40px #00eaff55, inset 0 0 20px #00eaff33;
+  margin-top:30px;
+  margin-bottom:30px;
+">
 
-<h2 style="color:#00eaff; font-weight:600;">🐍 Neon Contribution Snake</h2>
-
-<img 
-  src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/neon-cyberpunk.gif" 
-  alt="Neon Snake Animation" 
-  style="border-radius:12px; box-shadow:0 0 20px #00eaff55; width:100%; max-width:900px;"
-/>
+  <img 
+    src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/neon-blue.gif"
+    alt="Neon Snake"
+    style="width:100%; max-width:900px; border-radius:10px;"
+  />
 
 </div>
+
 
 <br/>
 
