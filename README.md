@@ -23,8 +23,9 @@
 
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
+--- 
 
-### ✨ Highlights  
+### ✨ Highlights 
 - 🧩 Clean Architecture & scalable systems advocate  
 - ⚙️ Full-stack dev with **Laravel, Node.js, React, Java, Spring Boot**  
 - ☁️ DevOps mindset: **Docker, CI/CD, AWS basics, Linux, Nginx**  
@@ -55,8 +56,6 @@ My approach blends engineering fundamentals with modern development practices an
 </div>
 
 ---
-
-# 🔮 GitHub Insights
 
 # 🔮 GitHub Insights
 
