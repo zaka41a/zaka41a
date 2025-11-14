@@ -23,7 +23,6 @@
 
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
---- 
 
 ### ✨ Highlights 
 - 🧩 Clean Architecture & scalable systems advocate  
