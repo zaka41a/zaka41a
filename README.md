@@ -7,8 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong style="font-size: 18px; color:#7df9ff;">Full-Stack Developer • Software Engineer • Tech Enthusiast</strong>  
-  <br/>
+  <strong style="font-size: 18px; color:#7df9ff;">Full-Stack Developer • Software Engineer • Tech Enthusiast</strong><br/>
   <span style="color:#c9f0ff;">Building clean, scalable and future-ready digital systems.</span>
 </p>
 
@@ -47,9 +46,10 @@ My approach blends engineering fundamentals with modern development practices an
 | **Mobile Development** | Swift • Kotlin • iOS Development |
 | **Engineering Practices** | Clean Architecture • REST APIs • Testing • Agile/Scrum |
 
-</div>
+---
 
 ## 🎛️ Tech Stack Board
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,python,go,spring,swift,kotlin,ios,mysql,postgresql,docker,linux,git,figma,vite" />
 </div>
@@ -61,36 +61,19 @@ My approach blends engineering fundamentals with modern development practices an
 <h2 align="center">🐍 Neon Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/github-contribution-grid-snake.gif" alt="snake animation" />
 </div>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🧩 Code Activity 
 
 <div align="center">
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Commits-Active-00eaff?style=for-the-badge&labelColor=0a0a0a"></td>
-    <td><img src="https://img.shields.io/badge/Focus-Full--Stack-7df9ff?style=for-the-badge&labelColor=0a0a0a"></td>
-    <td><img src="https://img.shields.io/badge/Quality-High-38f8ff?style=for-the-badge&labelColor=0a0a0a"></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=zaka41a&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
 ---
