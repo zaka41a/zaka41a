@@ -58,13 +58,22 @@ My approach blends engineering fundamentals with modern development practices an
 
 # 🔮 GitHub Insights
 
-<h2 align="center">🐍 Neon Contribution Snake</h2>
+# 🔮 GitHub Insights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/github-contribution-grid-snake.gif" alt="snake animation" />
+
+<h2 style="color:#00eaff; font-weight:600;">🐍 Neon Contribution Snake</h2>
+
+<img 
+  src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/neon-cyberpunk.gif" 
+  alt="Neon Snake Animation" 
+  style="border-radius:12px; box-shadow:0 0 20px #00eaff55; width:100%; max-width:900px;"
+/>
+
 </div>
 
-<br/><br/>
+<br/>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
