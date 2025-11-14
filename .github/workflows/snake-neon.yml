@@ -1,4 +1,4 @@
-name: Generate Neon Snake Graph
+name: Generate Neon Snake GIF
 
 on:
   schedule:
@@ -11,22 +11,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Neon Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Neon Snake (GIF + SVG)
+        uses: Platane/snk@v3
         with:
           github_user_name: zaka41a
           outputs: |
             dist/neon/github-contribution-grid-snake.svg
+            dist/neon/github-contribution-grid-snake.gif
           palette: |
             #00eaff
             #14f1ff
             #38bdf8
             #7dd3fc
-            #a5f3fc
             #c084fc
 
       - name: Deploy to GitHub Pages
