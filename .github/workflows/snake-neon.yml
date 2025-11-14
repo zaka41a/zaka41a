@@ -1,4 +1,4 @@
-name: Generate Neon Snake GIF
+name: Generate Neon Snake
 
 on:
   schedule:
@@ -9,28 +9,33 @@ on:
       - main
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Neon Snake (GIF + SVG)
+      - name: Create output directories
+        run: mkdir -p dist/neon
+
+      - name: Generate Cyberpunk Neon Snake (GIF + SVG)
         uses: Platane/snk@v3
         with:
           github_user_name: zaka41a
           outputs: |
-            dist/neon/github-contribution-grid-snake.svg
-            dist/neon/github-contribution-grid-snake.gif
+            dist/neon/neon-cyberpunk.svg
+            dist/neon/neon-cyberpunk.gif
+
+          # 🎨 PALETTE CYBERPUNK PRO (BLEU → VIOLET → MAGENTA)
           palette: |
             #00eaff
-            #14f1ff
-            #38bdf8
-            #7dd3fc
-            #c084fc
+            #4d3df7
+            #8a4bff
+            #ff00f5
+            #ff2ecf
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy Snakes to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
