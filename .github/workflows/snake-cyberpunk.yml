@@ -1,0 +1,42 @@
+name: Generate Cyberpunk Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create output directories
+        run: mkdir -p dist/neon
+
+      - name: Generate Cyberpunk Snake (GIF + SVG)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zaka41a
+          outputs: |
+            dist/neon/neon-cyberpunk.svg
+            dist/neon/neon-cyberpunk.gif
+          palette: |
+            #00eaff
+            #5b00ff
+            #9d00ff
+            #ff00f5
+            #ff008a
+
+      - name: Deploy Snakes
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
