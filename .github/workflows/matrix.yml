@@ -1,56 +1,66 @@
 name: Generate Matrix Rain Banner
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
   schedule:
     - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  matrix-banner:
+  matrix:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create Output Structure
+      - name: Create output directory
         run: mkdir -p dist/matrix
 
-      - name: Generate Matrix Code Rain (SVG)
+      - name: Generate Matrix Rain SVG
         run: |
-          cat << 'EOF' > dist/matrix/matrix-rain.svg
-          <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <style>
-                @keyframes rain {
-                  0% { transform: translateY(-280px); opacity: 0; }
-                  10% { opacity: 1; }
-                  100% { transform: translateY(300px); opacity: 0; }
-                }
-                .drop {
-                  font-family: monospace;
-                  font-size: 22px;
-                  fill: #00ff41;
-                  text-shadow: 0 0 10px #00ff41;
-                  animation: rain linear infinite;
-                }
-              </style>
-            </defs>
+          cat > dist/matrix/matrix.svg << 'EOF'
+          <svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#000"/>
+            <style>
+              text {
+                font-family: monospace;
+                font-size: 18px;
+                fill: #00ff41;
+                opacity: 0.8;
+                animation: fall 1.8s linear infinite;
+              }
+              @keyframes fall {
+                0%   { transform: translateY(-200px); opacity: 0; }
+                40%  { opacity: 1; }
+                100% { transform: translateY(260px); opacity: 0; }
+              }
+            </style>
 
+            <!-- 40 colonnes de pluie Matrix -->
             <g>
+              <!-- Génération automatique de 40 colonnes -->
+              <!-- Chaque colonne a un délai différent pour l’effet pluie -->
+              <!-- Le texte change à chaque exé pour un effet vivant -->
+              <!-- Lignes générées dynamiquement -->
+              <!-- Colonne par colonne -->
+              <!-- 40 colonnes -->
+              <!-- Animation -->
           EOF
 
-          # 80 Matrix falling characters
-          for i in $(seq 1 80); do
-            X=$((RANDOM % 1200))
-            DELAY=$(echo "scale=2; $RANDOM/32767 * 4" | bc)
-            CHAR=$(printf "\\$(printf '%03o' $((RANDOM % 93 + 33)))")
-            echo "<text x='$X' y='0' class='drop' style='animation-duration: 3.5s; animation-delay: ${DELAY}s;'>$CHAR</text>" >> dist/matrix/matrix-rain.svg
+          # Générer 40 colonnes de caractères aléatoires
+          for i in $(seq 1 40); do
+            x=$((i * 22))
+            delay=$(awk -v min=0 -v max=2 'BEGIN{srand(); print min+rand()*(max-min)}')
+            echo "<text x=\"$x\" y=\"0\" style=\"animation-delay: ${delay}s;\">" >> dist/matrix/matrix.svg
+            tr -dc '01ABCDEFGHIJKLMNOPQRSTUVWXYZ' < /dev/urandom | head -c 40 >> dist/matrix/matrix.svg
+            echo "</text>" >> dist/matrix/matrix.svg
           done
 
-          echo "</g></svg>" >> dist/matrix/matrix-rain.svg
+          # fermer le fichier SVG
+          echo "</g></svg>" >> dist/matrix/matrix.svg
           EOF
 
       - name: Deploy Matrix Banner
