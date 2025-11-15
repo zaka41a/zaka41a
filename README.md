@@ -57,28 +57,21 @@ My approach blends engineering fundamentals with modern development practices an
 ---
 
 ## 🔮 GitHub Insights
-<div align="center">
 
-<table width="100%" style="
-background:linear-gradient(135deg,#000,#020a02);
-border: 2px solid #00ff41;
-border-radius:18px;
-box-shadow:
-  0 0 25px #00ff41aa,
-  inset 0 0 15px #00ff4155;
-padding:25px;
+<div align="center" style="
+  background:#000;
+  padding:25px;
+  border-radius:12px;
+  border: 2px solid #00ff41;
+  box-shadow:0 0 20px #00ff4166;
 ">
-<tr><td align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/matrix/matrix-rain.svg"
-  alt="Matrix Code Rain"
-  style="width:100%; max-width:900px; border-radius:10px;"
-/>
-
-</td></tr></table>
+<img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/matrix/matrix.svg"
+     width="100%"
+     alt="Matrix Rain Animation" />
 
 </div>
+
 <br></br>
 
 <div align="center">
@@ -86,6 +79,8 @@ padding:25px;
 </div>
 
 <br/><br/>
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true"/>
