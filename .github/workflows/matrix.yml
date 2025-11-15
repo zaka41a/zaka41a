@@ -21,39 +21,33 @@ jobs:
       - name: Generate Matrix Code Rain (SVG)
         run: |
           cat << 'EOF' > dist/matrix/matrix-rain.svg
-          <svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
               <style>
-                @keyframes drop {
-                  0% { transform: translateY(-300px); opacity: 0; }
+                @keyframes rain {
+                  0% { transform: translateY(-280px); opacity: 0; }
                   10% { opacity: 1; }
                   100% { transform: translateY(300px); opacity: 0; }
                 }
-                .char {
-                  font-size: 22px;
+                .drop {
                   font-family: monospace;
-                  animation: drop linear infinite;
+                  font-size: 22px;
                   fill: #00ff41;
-                  text-shadow: 0 0 8px #00ff41;
+                  text-shadow: 0 0 10px #00ff41;
+                  animation: rain linear infinite;
                 }
               </style>
             </defs>
 
-            <!-- Random Matrix characters -->
             <g>
-              <!-- 60 falling characters -->
-              <!-- AUTO-GENERATED LINES -->
-              <!-- Each char falls at different x positions & delays -->
-              <!-- Full effect -->
-              <!-- ChatGPT autogen -->
-              <!-- START -->
           EOF
 
-          for i in $(seq 1 60); do
+          # 80 Matrix falling characters
+          for i in $(seq 1 80); do
             X=$((RANDOM % 1200))
-            DELAY=$(echo "scale=2; $RANDOM/32767 * 5" | bc)
+            DELAY=$(echo "scale=2; $RANDOM/32767 * 4" | bc)
             CHAR=$(printf "\\$(printf '%03o' $((RANDOM % 93 + 33)))")
-            echo "<text x='$X' y='0' class='char' style='animation-duration: 3s; animation-delay: ${DELAY}s;'>$CHAR</text>" >> dist/matrix/matrix-rain.svg
+            echo "<text x='$X' y='0' class='drop' style='animation-duration: 3.5s; animation-delay: ${DELAY}s;'>$CHAR</text>" >> dist/matrix/matrix-rain.svg
           done
 
           echo "</g></svg>" >> dist/matrix/matrix-rain.svg
