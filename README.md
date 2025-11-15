@@ -57,27 +57,29 @@ My approach blends engineering fundamentals with modern development practices an
 ---
 
 ## 🔮 GitHub Insights
+<div align="center">
 
-<div align="center" style="
-  background:#000;
-  padding:30px;
-  border-radius:18px;
-  box-shadow:0 0 40px #00eaff55, inset 0 0 20px #00eaff33;
-  margin-top:30px;
-  margin-bottom:30px;
+<table width="100%" style="
+background:linear-gradient(135deg,#000,#020a02);
+border: 2px solid #00ff41;
+border-radius:18px;
+box-shadow:
+  0 0 25px #00ff41aa,
+  inset 0 0 15px #00ff4155;
+padding:25px;
 ">
+<tr><td align="center">
 
-  <img 
-    src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/neon/neon-blue.gif"
-    alt="Neon Snake"
-    style="width:100%; max-width:900px; border-radius:10px;"
-  />
+<img 
+  src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/matrix/matrix-rain.svg"
+  alt="Matrix Code Rain"
+  style="width:100%; max-width:900px; border-radius:10px;"
+/>
+
+</td></tr></table>
 
 </div>
-
-
-<br/>
-
+<br></br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
