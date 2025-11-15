@@ -58,20 +58,6 @@ My approach blends engineering fundamentals with modern development practices an
 
 ## 🔮 GitHub Insights
 
-<div align="center" style="
-  background:#000;
-  padding:25px;
-  border-radius:12px;
-  border: 2px solid #00ff41;
-  box-shadow:0 0 20px #00ff4166;
-">
-
-<img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/matrix/matrix.svg"
-     width="100%"
-     alt="Matrix Rain Animation" />
-
-</div>
-
 <br></br>
 
 <div align="center">
