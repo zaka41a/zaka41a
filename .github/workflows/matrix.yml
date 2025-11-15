@@ -1,0 +1,68 @@
+name: Generate Matrix Rain Banner
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */24 * * *"
+
+jobs:
+  matrix-banner:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Create Output Structure
+        run: mkdir -p dist/matrix
+
+      - name: Generate Matrix Code Rain (SVG)
+        run: |
+          cat << 'EOF' > dist/matrix/matrix-rain.svg
+          <svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <style>
+                @keyframes drop {
+                  0% { transform: translateY(-300px); opacity: 0; }
+                  10% { opacity: 1; }
+                  100% { transform: translateY(300px); opacity: 0; }
+                }
+                .char {
+                  font-size: 22px;
+                  font-family: monospace;
+                  animation: drop linear infinite;
+                  fill: #00ff41;
+                  text-shadow: 0 0 8px #00ff41;
+                }
+              </style>
+            </defs>
+
+            <!-- Random Matrix characters -->
+            <g>
+              <!-- 60 falling characters -->
+              <!-- AUTO-GENERATED LINES -->
+              <!-- Each char falls at different x positions & delays -->
+              <!-- Full effect -->
+              <!-- ChatGPT autogen -->
+              <!-- START -->
+          EOF
+
+          for i in $(seq 1 60); do
+            X=$((RANDOM % 1200))
+            DELAY=$(echo "scale=2; $RANDOM/32767 * 5" | bc)
+            CHAR=$(printf "\\$(printf '%03o' $((RANDOM % 93 + 33)))")
+            echo "<text x='$X' y='0' class='char' style='animation-duration: 3s; animation-delay: ${DELAY}s;'>$CHAR</text>" >> dist/matrix/matrix-rain.svg
+          done
+
+          echo "</g></svg>" >> dist/matrix/matrix-rain.svg
+          EOF
+
+      - name: Deploy Matrix Banner
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
