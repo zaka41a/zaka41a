@@ -24,12 +24,16 @@
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
 
-### ✨ Highlights 
+### ✨ Highlights  
 - 🧩 Clean Architecture & scalable systems advocate  
 - ⚙️ Full-stack dev with **Laravel, Node.js, React, Java, Spring Boot**  
 - ☁️ DevOps mindset: **Docker, CI/CD, AWS basics, Linux, Nginx**  
 - 🔍 Focused on clean code, performance & maintainability  
 - 🌍 Based in **Aachen, Germany**
+
+### 🌐 Portfolio  
+> Explore my projects & digital creations  
+🔗 **https://zakariasabiri.dev** 
 
 ---
 
@@ -40,9 +44,9 @@ My approach blends engineering fundamentals with modern development practices an
 | 🌐 Domain | 🧠 Expertise |
 |----------|--------------|
 | **Frontend Engineering** | React • TypeScript • Vite • TailwindCSS • UI/UX Optimization |
-| **Backend Systems** | Node.js • Express • PHP • Laravel • Java/JEE • Spring Boot |
+| **Backend Systems** | Node.js • Express • PHP • Laravel • Java • Spring Boot |
 | **Databases** | MySQL • PostgreSQL • SQLite • Firebase |
-| **DevOps & Cloud** | Docker • GitHub Actions • CI/CD • Nginx • Linux • AWS (Basics) |
+| **DevOps & Cloud** | Docker • GitHub Actions • CI/CD • Nginx • Linux • AWS Basics |
 | **Mobile Development** | Swift • Kotlin • iOS Development |
 | **Engineering Practices** | Clean Architecture • REST APIs • Testing • Agile/Scrum |
 
@@ -56,25 +60,42 @@ My approach blends engineering fundamentals with modern development practices an
 
 ---
 
-## 🔮 GitHub Insights
+# 🔮 GitHub Insights
 
-<br></br>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&margin-w=8&margin-h=8&no-frame=true" />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=zaka41a&show_icons=true&theme=tokyonight&hide_border=true"
+          height="170"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/><br/>
-
-
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zaka41a&theme=react-dark&hide_border=true&area=true"
+  />
 </div>
 
 ---
 
 # 💭 Neon Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
