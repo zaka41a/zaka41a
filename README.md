@@ -70,12 +70,6 @@ My approach blends engineering fundamentals with modern development practices an
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=zaka41a&show_icons=true&theme=tokyonight&hide_border=true"
-          height="170"
-        />
-      </td>
-      <td>
-        <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true"
           height="170"
         />
