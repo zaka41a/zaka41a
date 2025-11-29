@@ -2,19 +2,6 @@
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-banner.png" width="100%" />
 </div>
 
-
-<p align="center">
-  <strong style="font-size: 18px; color:#7df9ff;">Full-Stack Developer • Software Engineer • Tech Enthusiast</strong><br/>
-  <span style="color:#c9f0ff;">Building clean, scalable and future-ready digital systems.</span>
-</p>
-
-<div align="center">
-  <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-</div>
-
-
 ---
 
 # 🌙 About Me 
@@ -22,9 +9,12 @@
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
 
+<div align="center">
+  <a href="mailto:zaksab98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://www.linkedin.com/in/zakaria-sabiri-8a97b4364/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+</div>
 
-<img src="https://img.shields.io/badge/Full--Stack-9b4dff?style=for-the-badge&logoColor=white&color=9b4dff" />
-<img src="https://img.shields.io/badge/Clean_Code-7f00ff?style=for-the-badge&color=9b4dff" />
 
 ### ✨ Highlights  
 - 🧩 Clean Architecture & scalable systems advocate  
