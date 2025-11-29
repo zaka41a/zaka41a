@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/" width="100%" />
 </div>
 
 ---
