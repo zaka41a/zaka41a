@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-bannerV.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-banner.png" width="100%" />
 </div>
-
-
-<h1 align="center">
-  <span style="color:#9b4dff;">⚡ Zakaria Sabiri ⚡</span>
-</h1>
 
 
 <p align="center">
@@ -48,25 +43,6 @@ My approach blends engineering fundamentals with modern development practices an
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,python,go,spring,swift,kotlin,ios,mysql,postgresql,docker,linux,git,figma,vite,c" />
-</div>
-
----
-
-# 🔮 GitHub Insights
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img 
-    src=""
-  />
 </div>
 
 ---
