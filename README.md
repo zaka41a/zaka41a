@@ -38,21 +38,6 @@ My approach blends engineering fundamentals with modern development practices an
 
 ---
 
-# 💠 Technical Expertise 
-
-## 🚀 Core Skills
-
-| 🌐 Domain | 🧠 Expertise |
-|----------|--------------|
-| **Frontend Engineering** | React • TypeScript • Vite • TailwindCSS • UI/UX Optimization |
-| **Backend Systems** | Node.js • Express • PHP • Laravel • Java • Spring Boot |
-| **Databases** | MySQL • PostgreSQL • SQLite • Firebase |
-| **DevOps & Cloud** | Docker • GitHub Actions • CI/CD • Nginx • Linux • AWS Basics |
-| **Mobile Development** | Swift • Kotlin • iOS Development |
-| **Engineering Practices** | Clean Architecture • REST APIs • Testing • Agile/Scrum |
-
----
-
 ## 🎛️ Tech Stack Board
 
 <div align="center">
