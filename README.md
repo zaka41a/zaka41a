@@ -33,7 +33,7 @@ My approach blends engineering fundamentals with modern development practices an
 
 ### 🌐 Portfolio  
 > Explore my projects & digital creations  
-🔗 **[https://zakariasabiri.dev](https://portfolio-chi-jade-amtmuskqay.vercel.app)** 
+🔗 **https://zakariasabiri.dev**
 
 ---
 
@@ -62,20 +62,11 @@ My approach blends engineering fundamentals with modern development practices an
 
 # 🔮 GitHub Insights
 
-
-<br>
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true"
-          height="170"
-        />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaka41a&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </div>
 
 <br>
@@ -88,15 +79,39 @@ My approach blends engineering fundamentals with modern development practices an
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
+  />
+</div>
+
+---
+
+# 🎨 Tech Collage Banner
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/banner/skill-icons-banner-dark.png" width="100%" />
+</div>
+
+---
+
+# 🐍 GitHub Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 # 💭 Neon Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
 # ⚡ Fun Fact  
 > My IDE boots with caffeine and neon power. If one drops, everything crashes. ⚡🛸
-
----
