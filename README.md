@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://github.com/zaka41a/zaka41a/blob/main/assets/banner.gif" width="100%" />
+  <img src="https://github.com/zaka41a/zaka41a/blob/main/assets/cybertech-banner.png" width="100%" />
 </div>
 
 <h1 align="center">
-  <span style="color:#00eaff;">⚡ Zakaria Sabiri ⚡</span>
+  <span style="color:#9b4dff;">⚡ Zakaria Sabiri ⚡</span>
 </h1>
+
 
 <p align="center">
   <strong style="font-size: 18px; color:#7df9ff;">Full-Stack Developer • Software Engineer • Tech Enthusiast</strong><br/>
@@ -87,13 +88,6 @@ My approach blends engineering fundamentals with modern development practices an
   />
 </div>
 
----
-
-# 🎨 Tech Collage Banner
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/banner/skill-icons-banner-dark.png" width="100%" />
-</div>
 
 ---
 
