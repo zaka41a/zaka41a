@@ -34,7 +34,7 @@ My approach blends engineering fundamentals with modern development practices an
 
 ### 🌐 Portfolio  
 > Explore my projects & digital creations  
-🔗 **https://zakariasabiri.dev**
+🔗 **[https://zakariasabiri.dev](https://portfolio-chi-jade-amtmuskqay.vercel.app)**
 
 ---
 
