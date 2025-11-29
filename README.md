@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zaka41a/zaka41a/blob/main/assets/cybertech-banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/zaka41a/blob/main/assets/cybertech-banner.png" width="100%" />
 </div>
 
 <h1 align="center">
@@ -18,12 +18,17 @@
   <a href="https://github.com/zaka41a"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
 </div>
 
+
 ---
 
 # 🌙 About Me 
 
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
+
+
+<img src="https://img.shields.io/badge/Full--Stack-9b4dff?style=for-the-badge&logoColor=white&color=9b4dff" />
+<img src="https://img.shields.io/badge/Clean_Code-7f00ff?style=for-the-badge&color=9b4dff" />
 
 ### ✨ Highlights  
 - 🧩 Clean Architecture & scalable systems advocate  
