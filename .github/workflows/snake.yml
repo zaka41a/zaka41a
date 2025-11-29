@@ -2,30 +2,39 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Génère le snake chaque jour à minuit
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      # Récupération du repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Génération de l’animation Snake
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: zaka41a
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-artifact@v3
+      # Upload (nouvelle version compatible 2024+)
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
 
+      # Publication vers la branche "output"
       - name: Push snake to output branch
-        uses: popeye/actions-gh-pages@v1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
           branch: output
+          folder: dist
+          clean: true
