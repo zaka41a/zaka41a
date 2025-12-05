@@ -41,9 +41,9 @@ My approach blends engineering fundamentals with modern development practices an
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"/>
+    src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
+  />
 </div>
-
 
 ---
 
