@@ -35,15 +35,6 @@ My approach blends engineering fundamentals with modern development practices an
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,python,go,spring,swift,kotlin,ios,mysql,postgresql,docker,linux,git,figma,vite,c" />
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=zaka41a&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
-  />
-</div>
 
 ---
 
