@@ -35,6 +35,11 @@ My approach blends engineering fundamentals with modern development practices an
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,python,go,spring,swift,kotlin,ios,mysql,postgresql,docker,linux,git,figma,vite,c" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/zak41.png" width="100%" />
+</div>
 
 ---
 
