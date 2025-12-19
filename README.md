@@ -1,8 +1,14 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-banner.png" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 # 🌙 About Me 
 
@@ -27,7 +33,9 @@ My approach blends engineering fundamentals with modern development practices an
 > Explore my projects & digital creations  
 🔗 **[https://zakariasabiri.dev](https://portfolio-chi-jade-amtmuskqay.vercel.app)**
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 ## 🎛️ Tech Stack Board
 
@@ -35,13 +43,17 @@ My approach blends engineering fundamentals with modern development practices an
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,java,python,go,spring,swift,kotlin,ios,mysql,postgresql,docker,linux,git,figma,vite,c" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/zak41.png" width="100%" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 # 🐍 GitHub Snake
 
@@ -49,7 +61,9 @@ My approach blends engineering fundamentals with modern development practices an
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/output/github-contribution-grid-snake.svg" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 # 💭 Neon Dev Quote
 
@@ -57,7 +71,9 @@ My approach blends engineering fundamentals with modern development practices an
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
 
 # ⚡ Fun Fact  
 > My IDE boots with caffeine and neon power. If one drops, everything crashes. ⚡🛸
