@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/cybertech-banner.png" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
+</div>
+
 # 🌙 About Me 
 
 I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
