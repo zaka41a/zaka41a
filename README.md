@@ -8,7 +8,7 @@
 
 # 🌙 About Me 
 
-I’m a **Full-Stack Software Engineer** passionate about designing robust, elegant and scalable digital solutions.  
+I’m a **Computer Science & Mathematics** Student Bachelor Student Informatik & Mathematik (FH Aachen)passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
 
 <div align="center">
