@@ -20,10 +20,10 @@ My approach blends engineering fundamentals with modern development practices an
 
 ### ✨ Highlights  
 - 🧩 Clean Architecture & scalable systems advocate  
-- ⚙️ Full-stack dev with **Laravel, Node.js, React, Java, Spring Boot**  
-- ☁️ DevOps mindset: **Docker, CI/CD, AWS basics, Linux, Nginx**  
+- ⚙️ Full-stack
+- ☁️ DevOps 
 - 🔍 Focused on clean code, performance & maintainability  
-- 🌍 Based in **Aachen, Germany**
+- 🌍 Based in **Germany**
 
 ### 🌐 Portfolio  
 > Explore my projects & digital creations  
