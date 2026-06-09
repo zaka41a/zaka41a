@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
 </div>
 
-# 🌙 About Me 
+# 👨‍💻 About Me 
 
 I’m a **Computer Science & Mathematics** Student Bachelor Student Informatik & Mathematik (FH Aachen) passionate about designing robust, elegant and scalable digital solutions.  
 My approach blends engineering fundamentals with modern development practices and a futuristic neon flair.
