@@ -19,11 +19,10 @@ My approach blends engineering fundamentals with modern development practices an
 
 
 ### ✨ Highlights  
-- 🧩 Clean Architecture & scalable systems advocate  
-- ⚙️ Full-stack
-- ☁️ DevOps 
-- 🔍 Focused on clean code, performance & maintainability  
-- 🌍 Based in **Germany**
+-  Clean Architecture & scalable systems advocate  
+-  Full-stack
+-  DevOps 
+-  Focused on clean code, performance & maintainability  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
