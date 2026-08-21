@@ -25,10 +25,6 @@ My approach blends engineering fundamentals with modern development practices an
 - 🔍 Focused on clean code, performance & maintainability  
 - 🌍 Based in **Germany**
 
-### 🌐 Portfolio  
-> Explore my projects & digital creations  
-🔗 **[https://zaka41.com](https://portfolio-chi-jade-amtmuskqay.vercel.app)**
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
 </div>
@@ -61,16 +57,3 @@ My approach blends engineering fundamentals with modern development practices an
 <div align="center">
   <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
 </div>
-
-# 💭 Neon Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/LL.png" width="100%" />
-</div>
-
-# ⚡ Fun Fact  
-> My IDE boots with caffeine and neon power. If one drops, everything crashes. ⚡🛸
